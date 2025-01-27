@@ -1,0 +1,178 @@
+attributes- 
+target 
+_blank=other window
+_self= open in same window 
+_top = open in full body window 
+_parent = open in parent tag
+
+anchor -
+tel 
+link 
+mailto 
+link
+
+marquee tag 
+behaviour -slide,alternate,scroll
+direction- left/up/down/right
+
+height 
+scrollamount 
+scrolldelay 
+loop 
+vspace 
+hspace
+
+https://html.spec.whatwg.org/multipage/named-characters.html
+toptal 
+
+
+css
+inline
+Internal 
+external 
+
+css colors - 
+predefined
+RGB 
+RGBA - opacity  0- full transparent 1.0 non transparent
+
+hexa transparency 
+
+HSL -
+Hue in degree 0-360
+0 -red , 120- green, 240-blue
+Saturation %value
+Lightness % 0 - shade is grey  100 -full color
+HSLA
+current color
+
+hexadecimal
+
+css components 
+Content 
+Border - 
+solid 
+dashed 
+dotted 
+double 
+groove 
+ridge 
+inset 
+outset 
+none 
+hidden
+
+Padding 
+Margin 
+
+width 
+thin 
+medium 
+larger
+
+ list- 
+ ordered 
+ unordered 
+ definition 
+ nested 
+
+ display- 
+ inline 
+ inline block 
+ block 
+ 
+position property- 
+Static -bydefault 
+Relative - left right top bottom work according to web page
+Absolute -
+Fixed 
+Sticky 
+ 
+ left 
+ right 
+ bottom 
+top 
+
+
+Animation property- 
+animation name 
+duration 
+timing function 
+linear -constant
+ease-in - start slow 
+ease-out -slow end
+ease-in-out -slow start slow end 
+ease -bydefault  slow start-fast -end slow
+cubic 
+step 
+
+
+
+delay 
+interation count 
+direction 
+play state 
+
+
+css 
+keyframes 
+
+Transform property- 
+methods - 
+rotate 
+scale 
+translate 
+skew 
+skew x,y 
+matrix  
+
+scaling -1 (means no scaling)  0 (scaling)
+skewing-0(means no skewing) 1(skewing) 
+
+
+gradient 
+linear gradient 
+radial gradient 
+conic gradient 
+
+farthest corner 
+closest corner 
+ 
+
+ input fields -
+ single input field name,surname,contact
+ multiple input fields-address 
+
+ assignment 
+ login -
+username 
+password 
+register-
+name 
+email 
+confirm pass
+username 
+password  
+submit 
+
+scalable vector graphics
+rectangle 
+ellipse 
+polyline 
+polygon 
+circle 
+line 
+
+
+
+
+
+
+git commands-
+git clone copy/paste
+git branch main/master
+git init -initialization
+push -upload laptop to github
+pull - upload github to laptop
+status -
+commit-save
